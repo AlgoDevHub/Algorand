@@ -12,7 +12,7 @@ Governance
 "
 type: "course"
 category: "Algorand Basics,Algorand Protocol Course"
-difficulty: "basic"
+difficulty: "intermediate"
 summary: "Key features of Algorand, its scalability and real world applications."
 file_path: ""
 featured: "no"
