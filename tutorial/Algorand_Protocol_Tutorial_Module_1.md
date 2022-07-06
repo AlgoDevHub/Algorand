@@ -1,7 +1,7 @@
 ---
 title: "Algorand Protocol Tutorial Module 1"
 description: "Basic description of Blockchain as a concept, and its immutability. Introduction on Blockchain consensus protocol, Blockchain trilema and Blockchain applications. For Developers Interested in Alogrand technologies and Integrations to learn more general information. By the end of this module, you should know what is a Blockchain and its possible Applications."
-type: "course"
+type: "tutorial"
 category: "Blockchain Basics,Algorand Protocol Tutorial"
 difficulty: "basic"
 summary: "Basic description of Blockchain as a concept"
