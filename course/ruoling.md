@@ -1,8 +1,6 @@
 ---
 title: "Ruoling Course"
-description: "Basic description of Blockchain as a concept, and its immutability. Introduction on Blockchain consensus protocol, Blockchain trilema and Blockchain applications. For Developers Interested in Alogrand technologies and Integrations to learn more general information
- 
- By the end of this module, you should know what is a Blockchain and its possible Applications"
+description: "Basic description of Blockchain as a concept, and its immutability. Introduction on Blockchain consensus protocol, Blockchain trilema and Blockchain applications. For Developers Interested in Alogrand technologies and Integrations to learn more general information \n\nBy the end of this module, you should know what is a Blockchain and its possible Applications"
 type: "course"
 category: "Blockchain Basics,Algorand Protocol Course"
 difficulty: "Basic"
