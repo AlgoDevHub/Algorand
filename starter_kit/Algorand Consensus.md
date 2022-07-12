@@ -1,7 +1,7 @@
 ---
 title: "Algorand Consensus"
 description: "This article is an introduction of the various components of the Algorand consensus mechanism. Features introduced include its verifiable random function, participation keys, state proof keys, the protocol itself, block proposal, soft votes and certifying votes."
-type: "starter kits"
+type: "starter-kit"
 category: "Blockchain Basics"
 difficulty: "Basic"
 summary: "Introduction to the features of the Algorand consensus mechanism"
