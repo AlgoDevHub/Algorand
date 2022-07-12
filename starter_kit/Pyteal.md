@@ -1,7 +1,7 @@
 ---
 title: "Pyteal"
 description: "Algorand Smart Contracts are implemented using a new language that is stack-based, called Transaction Execution Approval Language (TEAL). However, TEAL is essentially an assembly language. With PyTeal, developers can express smart contract logic purely using Python. In this document, the User Guide describes many useful features in PyTeal, and the complete documentation for every expression and operation can be found in the PyTeal Package API documentation."
-type: "starter-kit"
+type: "starter-kits"
 category: "PyTeal,Smart Contract"
 difficulty: "Basic"
 summary: "Learn about the useful features available in PyTeal"

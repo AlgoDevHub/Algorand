@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Use AlgoSigner and WalletConnect to interact with smart contracts"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Interacting with Smart Contracts with AlgoSigner and WalletConnect (dappradar.com)"
+link: "https://dappradar.com/blog/interacting-with-smart-contracts-with-algosigner-and-walletconnect"
 status: "open"
 ---

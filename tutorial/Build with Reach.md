@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Building on Algorand with Reach"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Build with Reach - Algorand Developer Portal"
+link: "https://developer.algorand.org/docs/get-started/dapps/reach/"
 status: "open"
 ---

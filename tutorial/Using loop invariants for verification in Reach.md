@@ -7,6 +7,6 @@ difficulty: "Advanced"
 summary: "Verifying smart contracts using loop invariants in REACH"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Using loop invariants for verification in Reach | Algorand Developer Portal"
+link: "https://developer.algorand.org/tutorials/using-loop-invariants-for-verification-in-reach/"
 status: "open"
 ---

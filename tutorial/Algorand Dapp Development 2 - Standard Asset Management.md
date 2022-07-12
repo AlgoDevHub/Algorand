@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Create and manage new assets on Algorand blockchain"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Algorand Dapp Development 2: Standard Asset Management (dappradar.com)"
+link: "https://dappradar.com/blog/algorand-dapp-development-2-standard-asset-management"
 status: "open"
 ---

@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Learn about the basics of Algorand development"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "An Introduction to Algorand Dapp Development (dappradar.com)"
+link: "https://dappradar.com/blog/an-introduction-to-algorand-dapp-development"
 status: "open"
 ---

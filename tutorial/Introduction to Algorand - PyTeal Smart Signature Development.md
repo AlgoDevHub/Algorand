@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Develop Algorand smart signatures with PyTeal"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Introduction to Algorand: PyTeal Smart Signature Development (dappradar.com)"
+link: "https://dappradar.com/blog/introduction-to-algorand-pyteal-smart-signature-development"
 status: "open"
 ---

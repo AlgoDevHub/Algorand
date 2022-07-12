@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Build Rock, Paper Scissors game"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Reach > Rock, Paper, Scissors!"
+link: "https://docs.reach.sh/tut/rps/#tut"
 status: "open"
 ---

@@ -7,6 +7,6 @@ difficulty: "Advanced"
 summary: "Build a lending pool with REACH"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Building a lending pool using Reach | Algorand Developer Portal"
+link: "https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/"
 status: "open"
 ---

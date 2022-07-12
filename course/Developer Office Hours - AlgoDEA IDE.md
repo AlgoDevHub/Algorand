@@ -2,7 +2,7 @@
 title: "Developer Office Hours - AlgoDEA IDE"
 description: "This guide introduces and gives an indepth guide of how to set up and use the AlgoDEA IntelliJ IDE."
 type: "course"
-category: "Developer Office Hours,Development Env"
+category: "Developer Office Hours,Algorand Components"
 difficulty: "Intermediate"
 summary: "Using AlgoDEA IntelliJ IDE"
 file_path: ""

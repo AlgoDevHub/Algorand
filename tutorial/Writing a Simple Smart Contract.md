@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Build an escrow style smart contract on Algorand TestNet"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Writing a Simple Smart Contract | Algorand Developer Portal"
+link: "https://developer.algorand.org/tutorials/writing-simple-smart-contract/"
 status: "open"
 ---

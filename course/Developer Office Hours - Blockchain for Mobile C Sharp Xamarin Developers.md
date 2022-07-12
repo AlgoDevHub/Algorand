@@ -1,5 +1,5 @@
 ---
-title: "Developer Office Hours - Blockchain for Mobile C# Xamarin Developers"
+title: "Developer Office Hours - Blockchain for Mobile C Sharp Xamarin Developers"
 description: "This session covers how to build Mobile apps for iOS, Android and UWP blockchain solutions in Xamarin and C#."
 type: "course"
 category: "Developer Office Hours,Algorand Integrations"

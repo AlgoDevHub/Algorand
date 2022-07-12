@@ -1,7 +1,7 @@
 ---
 title: "Presentation Tips and Tricks"
 description: "Learn about how to present or know more about delivering good presentations, this talk provides tips and tricks on presentation for both live and online presentations. If you are thinking of creating your own Algorand content, here is a good place to get started."
-type: "starter-kit"
+type: "starter-kits"
 category: "Others"
 difficulty: "Basic"
 summary: "Learn how to conduct a good presentation and upgrade your presentation skills"

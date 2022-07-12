@@ -7,6 +7,6 @@ difficulty: "Intermediate"
 summary: "Use PyTeal to create a License Manager Contract"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
-link: "Creating a License Manager Contract utilizing PyTEAL and Inner Transactions | Algorand Developer Portal"
+link: "https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/#3-conclusion"
 status: "open"
 ---
