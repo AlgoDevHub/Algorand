@@ -1,7 +1,7 @@
 ---
 title: "Wallet Connect"
 description: "WalletConnect is an open protocol to communicate securely between mobile wallets and decentralized applications (dApps) using QR code scanning (desktop) or deep linking (mobile). In this documentation for WalletConnect, you will find a quick start guide and all the information you need to add WalletConnect to your application workflow."
-type: "starter-kits"
+type: "starter-kit"
 category: "Algorand Developer Portal,Algorand Wallet,dApps"
 difficulty: "Basic"
 summary: "All of the information you need for a quick start guide on WalletConnect"

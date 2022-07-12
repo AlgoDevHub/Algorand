@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with AlgoSigner"
 description: "AlgoSigner is an Algorand wallet extension for Chrome. In this two-minute walkthrough, you will get the basics of AlgoSigner. Simply add the Chrome extension, create or import an account, and you&#39;re ready to interact with Algorand dApps!"
-type: "starter-kits"
+type: "starter-kit"
 category: "Algorand Wallet"
 difficulty: "Basic"
 summary: "How to get started with AlgoSigner, an Algorand wallet extension for Chrome"
