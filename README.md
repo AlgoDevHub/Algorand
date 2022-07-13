@@ -1,4 +1,4 @@
-#You can add in new materials by following these steps:
+# You can add in new materials by following these steps:
 
 1. In AlgoDev Hub, click on the **"submit"** button on the top right-hand corner, it will redirect you to the GitHub repo
 
