@@ -52,7 +52,7 @@
 ---
 7. Take note that the base repository should be the repo from AlgoDev Hub and head repository should be the repository you just forked
     \
-    ![Comparing repo](asset/compare.png)
+    ![Comparing repo](asset/comparing.png)
 
 ---
 8. Create the pull request
