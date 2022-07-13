@@ -1,6 +1,6 @@
 ---
 title: "Building for Blockchain - sponsor extended talk - UC Berkeley"
-description: "This module talks more about the key features of Algorand and gives some real-life examples to help you understand better what the ASA, DeFi, Centralized Crypto Exchange, Smart Contracts are. For CS Students with background on Blockchain. By the end of this module, you should know more about Algorand&#39;s features and its capabilities."
+description: "This module talks more about the key features of Algorand and gives some real-life examples to help you understand better what the ASA, DeFi, Centralized Crypto Exchange, Smart Contracts are. For CS Students with background on Blockchain. By the end of this module, you should know more about Algorand features and its capabilities."
 type: "course"
 category: "Blockchain Basics,Algorand Components"
 difficulty: "Intermediate"

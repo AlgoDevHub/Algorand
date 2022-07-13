@@ -1,6 +1,6 @@
 ---
 title: "Algorand Protocol Course Module 7"
-description: "This module will go through key concepts which any developer who wishes to utilize Algorand&#39;s features should know. We will go through key concepts relating to smart contracts, including the Algorand Virtual Machine and introducing TEAL and PyTeal. Other useful developer resources that we go through here are Algorand SDKs, Algorand NFT Marketplaces, Algorand Community resources and Algorand IDEs.By the end of this module, you should know what PyTeal and TEAL are, as well as how they interact with the Algorand Virtual Machine to enable smart contract logic to be executed. You should also know what kind of other resources pertaining to Algorand exists, and where to find them."
+description: "This module will go through key concepts which any developer who wishes to utilize Algorand features should know. We will go through key concepts relating to smart contracts, including the Algorand Virtual Machine and introducing TEAL and PyTeal. Other useful developer resources that we go through here are Algorand SDKs, Algorand NFT Marketplaces, Algorand Community resources and Algorand IDEs.By the end of this module, you should know what PyTeal and TEAL are, as well as how they interact with the Algorand Virtual Machine to enable smart contract logic to be executed. You should also know what kind of other resources pertaining to Algorand exists, and where to find them."
 type: "course"
 category: "Algorand Protocol Course,Smart Contract,Algorand Components"
 difficulty: "Intermediate"

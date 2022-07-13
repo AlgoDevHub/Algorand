@@ -1,6 +1,6 @@
 ---
 title: "Algorand Protocol Course Module 6"
-description: "This module aims to introduce you to DeFi as a concept and its use case on Algorand. By the end of this content heavy module, you should know what is DeFi, what are the advantages of DeFi over CeFi, the features of Algorand that makes it optimal for DeFi, algorand’s DeFi infrastructure and some examples of DeFi apps on Algorand today"
+description: "This module aims to introduce you to DeFi as a concept and its use case on Algorand. By the end of this content heavy module, you should know what is DeFi, what are the advantages of DeFi over CeFi, the features of Algorand that makes it optimal for DeFi, Algorand’s DeFi infrastructure and some examples of DeFi apps on Algorand today"
 type: "course"
 category: "Algorand Protocol Course,DeFi"
 difficulty: "Basic"

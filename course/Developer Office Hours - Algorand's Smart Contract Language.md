@@ -1,5 +1,5 @@
 ---
-title: "Developer Office Hours - Algorand&#39;s Smart Contract Language"
+title: "Developer Office Hours - Algorand Smart Contract Language"
 description: "This guide covers the TEAL and PyTeal languages and takes a deep dive on going beyond existing smart contract languages that are a basic flavor of JavaScript. This session not only covers showing developers how to use TEAL and PyTeal but also delineates how Algorand processes these contracts and highlights some of the key differences between Algorand and other options."
 type: "course"
 category: "Developer Office Hours,Smart Contract"

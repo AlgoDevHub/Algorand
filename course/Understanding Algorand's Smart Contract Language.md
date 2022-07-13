@@ -1,6 +1,6 @@
 ---
-title: "Understanding Algorand&#39;s Smart Contract Language"
-description: "Ths video goes through the concept of Algorand&#39;s Smart Contract, the type of smart contracts, its Runtime Architecture and the Language that it uses. For Developers interested in Algorand technologies By the end of this module, you will understand how smart contracts work and how you can use smart contracts"
+title: "Understanding Algorand Smart Contract Language"
+description: "Ths video goes through the concept of Algorand Smart Contract, the type of smart contracts, its Runtime Architecture and the Language that it uses. For Developers interested in Algorand technologies By the end of this module, you will understand how smart contracts work and how you can use smart contracts"
 type: "course"
 category: "EnCode Club,Smart Contract"
 difficulty: "Intermediate"

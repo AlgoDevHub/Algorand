@@ -1,6 +1,6 @@
 ---
 title: "Solving the blockchain trilemma - UC Davis"
-description: "Basic introductions to Blockchain and the reasons for blockchain, comparison between Algorand blockchain with other blockchains and solving the blockchain trilemma. For CS Students with no background on blockchain. By end of this module, you will understand the basics of blockchain and the pros and cons between Algorand&#39;s and other blockchains."
+description: "Basic introductions to Blockchain and the reasons for blockchain, comparison between Algorand blockchain with other blockchains and solving the blockchain trilemma. For CS Students with no background on blockchain. By end of this module, you will understand the basics of blockchain and the pros and cons between Algorand and other blockchains."
 type: "course"
 category: "Blockchain Basics"
 difficulty: "Intermediate"

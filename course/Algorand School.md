@@ -1,6 +1,6 @@
 ---
 title: "Algorand School"
-description: "A deck providing a step-by-step introduction to Algorand&#39;s technology, ecosystem and tools, understanding Algorand consensus and Algorand network, familiarizing with the Algorand nodes and developer tools, understanding Algorand&#39;s account and transactions; and clarifying how to develop dApps on the Algorand Virtual Machine."
+description: "A deck providing a step-by-step introduction to Algorand technology, ecosystem and tools, understanding Algorand consensus and Algorand network, familiarizing with the Algorand nodes and developer tools, understanding Algorand account and transactions; and clarifying how to develop dApps on the Algorand Virtual Machine."
 type: "course"
 category: "Algorand Components"
 difficulty: "Intermediate"
