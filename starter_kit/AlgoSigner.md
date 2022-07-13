@@ -4,9 +4,10 @@ description: "AlgoSign lets users approve and sign transactions that are generat
 type: "starter-kit"
 category: "Algorand Wallet"
 difficulty: "Basic"
-summary: "Find all of the information about AlgoSign in this full documentation"
+summary: "Find all of the information about AlgoSigner in this full documentation"
+featured: "no"
 file_path: ""
-image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
+image: ""
 link: "https://github.com/PureStake/algosigner"
 status: "open"
 ---
