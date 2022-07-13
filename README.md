@@ -10,7 +10,7 @@
     ![Forking repository](asset/forking-repo.png)
 
 ---
-3. ### Go to the folder according to your material, whether it is course, tutorial or starter kit, then click on **"add files"** to upload your contents 
+3. ### Go to the folder according to your material, whether it is course, tutorial or starter kit, then click on **"add files"** to upload your materials 
     \
     ![Type of content](asset/content-type.png)
     
@@ -109,5 +109,5 @@
     ![Create pull request](asset/create-request.png)
 
 ---
-9. ### Wait for admin to verify the request
+9. ### Requests to add content should be reviewed within 3 working days from the time of submission. 
 
