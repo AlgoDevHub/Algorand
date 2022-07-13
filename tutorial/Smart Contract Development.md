@@ -2,7 +2,7 @@
 title: "Smart Contract Development"
 description: "Documentation introducing to Smart Contracts and Smart Signatures and its use cases."
 type: "tutorial"
-category: "Algorand Developer Portal,Smart Contract"
+category: "Smart Contract"
 difficulty: "Intermediate"
 summary: "Documentation on Smart Contracts and Smart Signatures"
 file_path: ""

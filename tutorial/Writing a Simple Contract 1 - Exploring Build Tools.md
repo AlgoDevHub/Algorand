@@ -2,7 +2,7 @@
 title: "Writing a Simple Contract 1 - Exploring Build Tools"
 description: "This video is the first part to writing a Smart Contract and it introduces to writing a simple smart contract with PyTeal, exploring its building tools that was created for building smart contracts"
 type: "tutorial"
-category: "Smart Contract,PyTeal"
+category: "algorand pyteal course,Smart Contract,PyTeal"
 difficulty: "Basic"
 summary: "A series video introducing to writing a simple smart contract with PyTeal"
 file_path: ""

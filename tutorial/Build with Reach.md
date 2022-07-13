@@ -2,7 +2,7 @@
 title: "Build with Reach"
 description: "Documentation to help you start building with Reach. This guide will take you through the steps to build the dApp, explain the overview of the application and both of the frontend and backend aspects and features. An example of an auctioning dApp is used as a reference."
 type: "tutorial"
-category: "Algorand Developer Portal,dApps"
+category: "dApps"
 difficulty: "Intermediate"
 summary: "Building on Algorand with Reach"
 file_path: ""

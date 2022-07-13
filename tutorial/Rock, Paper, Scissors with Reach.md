@@ -4,7 +4,7 @@ description: "This tutorial covers the creation of a simple decentralized applic
 type: "tutorial"
 category: "Smart Contract,Gaming"
 difficulty: "Intermediate"
-summary: "Build Rock, Paper Scissors game"
+summary: "Creating a simple decentralised application with the Rock, Paper Scissors game"
 file_path: ""
 image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
 link: "https://docs.reach.sh/tut/rps/#tut"
