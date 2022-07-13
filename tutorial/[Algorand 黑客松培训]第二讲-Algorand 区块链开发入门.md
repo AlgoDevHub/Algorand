@@ -1,5 +1,5 @@
 ---
-title: "[Algorand 黑客松培训]第二讲-Algorand 区块链开发入门"
+title: "Algorand 黑客松培训-第二讲-Algorand 区块链开发入门"
 description: "This guide provides code snippets for simple Algorand processes such as creating an account, minting ASAs, and sending your first transaction."
 type: "tutorial"
 category: "Algorand 黑客松培训,Algorand Integrations"
