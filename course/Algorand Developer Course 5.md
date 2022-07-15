@@ -1,7 +1,7 @@
 ---
 title: "Algorand Developer Course 5"
 description: "Understand what tokens are and the type of tokens that can be created with Algorand SDK. By the end of this module, you will have understand the different types of tokens, how to create an NFT using Algorand SDK, understand what Fractional NFTs are and learned the ARC-0003 standard."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Components,NFT"
 difficulty: "Intermediate"
 summary: "Learn the various types of tokens and how to create them"

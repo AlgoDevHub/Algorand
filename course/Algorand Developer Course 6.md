@@ -1,7 +1,7 @@
 ---
 title: "Algorand Developer Course 6"
 description: "Understand all you need to know about transactions and payments in Algorand and making your own transactions. By the end of this module, you will have learn how to construct and make an Algo payment, make an ASA transfer, understand what an Indexer is and its uses as well as how to use it, and creating an online payment application using myAlgo Connect SDK library."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Components,ASA"
 difficulty: "Intermediate"
 summary: "How to make your own transactions and payments in Algorand"

@@ -1,7 +1,7 @@
 ---
 title: "Algorand Protocol Course Module 8"
 description: "This module covers the essentials on getting started with development on the Algorand blockchain, including setting up the Algorand Sandbox, creating a basic dApp, creating a smart contract using PyTeal, create and opt in to ASAs on the Algorand TestNet and making trades on Tinyman and contributing to Liquidity Pools."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Components"
 difficulty: "Intermediate"
 summary: "The essentials to get started with development on Algorand blockchain"

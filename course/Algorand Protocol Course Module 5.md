@@ -1,7 +1,7 @@
 ---
 title: "Algorand Protocol Course Module 5"
 description: "This module is great for developers hoping to develop UI as well as integrate their Algorand Applications with one of these popular Algorand Wallets - MyAlgo wallet, Pera Wallet, AlgoSigner, Verdax Wallet using Pipeline-UI. With detailed examples provided, by the end of this module, you should be able to make use of Pipeline-UI components and integrate with any of the wallets."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Wallet"
 difficulty: "Intermediate"
 summary: "Using Pipeline-UI components to integrate with Algorand wallets"

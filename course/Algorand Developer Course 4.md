@@ -1,7 +1,7 @@
 ---
 title: "Algorand Developer Course 4"
 description: "Understanding what dApp is and how you can build dApps with Python and Reach language. By the end of this module, you will have understand what a dApp is and would be able to build your own dApp as well as built a template dApp with both Python and Reach."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Components,dApps"
 difficulty: "Intermediate"
 summary: "Building dApps with the Python language and Reach language"

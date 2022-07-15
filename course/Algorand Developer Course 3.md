@@ -1,7 +1,7 @@
 ---
 title: "Algorand Developer Course 3"
 description: "Learn all you need to know about accounts on Algorand, what it consists of like keys and addresses, and the wallets and accounts. By the end of this module, you will understand how mnemonics are generated in Algorand accounts, understood the various types of accounts on Algorand, and you will learn how to use goal CLI to create an account and import it into MyAlgo Wallet."
-type: "tutorial"
+type: "course"
 category: "Algorand Protocol Course,Algorand Components,Algorand Wallet"
 difficulty: "Intermediate"
 summary: "Understanding and creating of accounts on Algorand using goal CLI"
