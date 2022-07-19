@@ -19,14 +19,14 @@
    
     - ### Templates for file uploading should be as followed:
          \---\
-         title: "(Title of content)"\
-         description: "(Short description of content)"\
-         type: "(Type of content (course/tutorial/starter-kit))"\
-         category: "(tag 1, tag 2, tag n)"\
-         difficulty: "(Level of Difficulty (Basic/Intermediate/Advanced))"\
-         summary: "(Summary)"\
-         file_path: "(Redirect link (If content is hosted on an external platform e.g. Youtube, etc.))"\
-         image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"\
+         title: "(Title of content)" \
+         description: "(Short description of content)" \
+         type: "(Type of content (course/tutorial/starter-kit))" \
+         category: "(tag 1, tag 2, tag n)" \
+         difficulty: "(Level of Difficulty (Basic/Intermediate/Advanced))" \
+         summary: "(Summary)" \
+         file_path: "(Redirect link (If content is hosted on an external platform e.g. Youtube, etc.))" \
+         image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png" \
          link: "(URL (of existing content))"\
          status: "open"\
          \---

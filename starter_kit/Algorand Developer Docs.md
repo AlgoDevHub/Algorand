@@ -1,7 +1,7 @@
 ---
 title: "Algorand Developer Docs"
 description: "The developer docs form the basis for developers wishing to learn more about Algorand development, its features, languages, and the Algorand node itself."
-type: "starterkit"
+type: "starter-kit"
 category: "Algorand Basics"
 difficulty: "Basic"
 summary: "The first resource to find developer documentation about the Alogorand protocol and its key features."
