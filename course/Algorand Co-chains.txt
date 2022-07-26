@@ -1,0 +1,14 @@
+---
+title: "Algorand Co-chains"
+description: "A live Co-chain Q&A with Dilvio McCauley and the Algorand team, discussing and understanding about Co-chain, totally independent from the public chain, shielding its transactions from all outsider, interoperating with the Algorand main chain to transact with other co-chains. This brings both its internal and external interactions, layer-1 smart contracts, and all other primitives and tools offered by the permissionless Algorand protocol. "
+type: "course"
+category: "Algorand Integration,Smart Contract,Others"
+difficulty: "Advanced"
+summary: "Solutions for both public and private blockchains"
+file_path: ""
+featured: "no”
+image: "https://assets-global.website-files.com/5e39e095596498a8b9624af1/5ffca6e3e0d8ad9231cc2af6_Portfolio-course---final.png"
+link: "https://www.youtube.com/watch?v=zOlshmNShvU"
+status: "open"
+---
+
